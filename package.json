@@ -1,0 +1,23 @@
+{
+  "name": "ymnnjq",
+  "version": "0.1.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codeandcraftnyc/ymnnjq.js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codeandcraftnyc/ymnnjq.js/issues"
+  },
+  "homepage": "https://github.com/codeandcraftnyc/ymnnjq.js#readme",
+  "devDependencies": {
+    "babel-preset-es2015": "6.3.13"
+  }
+}
